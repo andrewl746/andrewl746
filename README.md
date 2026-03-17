@@ -1,4 +1,4 @@
-# Hi, I'm Andrew Li 👋
+## Hi, I'm Andrew Li 👋
 
 ## About Me:
 I'm currently learning React, TypeScript, and Tailwind CSS.<br><br>Ask me about C++, Java, Python, JavaScript, and Firebase.<br><br>Contact me at: andrewli746@gmail.com<br><br>Fun fact: I enjoy playing tennis.
