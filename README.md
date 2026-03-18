@@ -8,10 +8,7 @@ I'm currently learning React, TypeScript, and Tailwind CSS.<br><br>Ask me about 
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andrewl746&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=andrewl746&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewl746&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=andrewl746&icon=0&color=4)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewl746&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandrewl746&label=Visitors&labelColor=%23697689&countColor=%23d9e3f0&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
