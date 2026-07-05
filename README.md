@@ -1,12 +1,58 @@
-# Hi, I'm Andrew
+# Hi, I'm Andrew 👋
 
-## About Me:
-Currently learning React, TypeScript, and Tailwind CSS.<br><br>Ask me about C++, Java, Python, JavaScript, and Firebase.<br><br>Contact me at: andrewli746@gmail.com<br><br>Fun fact: I enjoy playing tennis.
+**Computer Science @ University of Waterloo** · [andrewli.app](https://andrewli.app) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com)
 
-## Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+I enjoy building software that makes people's lives easier. Founder of [OlympIQ](https://www.olympiq.ca), a team-management platform used by 60+ Science Olympics competitors. Currently exploring how AI agents work: tool use, RAG, and the ReAct loop.
 
-## GitHub Stats:
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandrewl746&label=Visitors&labelColor=%23697689&countColor=%23d9e3f0&style=flat)
+Seeking a **Summer 2027 co-op**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[OlympIQ](https://www.olympiq.ca)** · Live | Runs my high school's Science Olympics team: scheduling with conflict detection, preference-based event assignment, attendance, Excel export. | Next.js, TypeScript, Firebase |
+| **[Flowboard](https://github.com/andrewl746/Flowboard)** · JAMHacks 2026 | Turns a GitHub repo into an interactive flowchart, with an AI assistant grounded in the actual file structure and code. | Next.js, React Flow, Anthropic API |
+| **[TeacherAId](https://github.com/andrewl746/TeacherAId)** · GenAI Genesis 2026 | Classifies misconceptions from students' written reasoning and tells teachers what to focus on next. | Firebase, Claude API, Cloudflare Workers |
+| **[FrostByte](https://github.com/andrewl746/FrostByte)** · Hack Canada 2025 🏆 | Estimates frostbite and hypothermia risk from live weather and clothing. Won Best Use of Gemini AI. | Next.js, Node.js, Gemini API |
+
+## Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+**Web**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+**Cloud & Databases**
+
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
+
+**Tools & AI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrewl746&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewl746&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+</p>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandrewl746&label=Visitors&labelColor=%23697689&countColor=%23d9e3f0&style=flat" alt="Visitor count" />
