@@ -4,8 +4,6 @@
 
 I enjoy building software that makes people's lives easier. Founder of [OlympIQ](https://www.olympiq.ca), a team-management platform used by 60+ Science Olympics competitors.
 
-Seeking a **Summer 2027 co-op**.
-
 ## Featured Projects
 
 | Project | What it does | Built with |
