@@ -2,7 +2,7 @@
 
 **Computer Science @ University of Waterloo** · [andrewli.app](https://andrewli.app) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com)
 
-I enjoy building software that makes people's lives easier. Founder of [OlympIQ](https://www.olympiq.ca), a team management platform set to be used by my high school's Science Olympics team.
+I enjoy building software that makes people's lives easier. Founder of [OlympIQ](https://www.olympiq.ca).
 
 ## Featured Projects
 
