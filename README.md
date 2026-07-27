@@ -8,7 +8,7 @@ I enjoy building software that makes people's lives easier. Founder of [OlympIQ]
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[OlympIQ](https://www.olympiq.ca)** · Live | Set to manage my high school's Science Olympics team with 60+ competitors by automatically generating event schedules that take into account competitor preferences and event time conflicts. | Next.js, TypeScript, Firebase |
+| **[OlympIQ](https://www.olympiq.ca)** · Live | Set to manage my high school's Science Olympics team with 60+ competitors by automatically assigning students to competition events while accounting for competitor preferences and scheduling conflicts. | Next.js, TypeScript, Firebase |
 | **[Flowboard](https://github.com/andrewl746/Flowboard)** · JAMHacks 2026 | Turns a GitHub repo into an interactive flowchart, with an AI assistant grounded in the actual file structure and code. | Next.js, React Flow, Anthropic API |
 | **[TeacherAId](https://github.com/andrewl746/TeacherAId)** · GenAI Genesis 2026 | Classifies misconceptions from students' written reasoning and tells teachers what to focus on next. | Firebase, Claude API, Cloudflare Workers |
 | **[FrostByte](https://github.com/andrewl746/FrostByte)** · Hack Canada 2025 🏆 | Estimates frostbite and hypothermia risk from live weather and clothing. Won Best Use of Gemini AI. | Next.js, Node.js, Gemini API |
