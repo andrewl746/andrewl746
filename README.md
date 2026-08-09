@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
 
-**Computer Science @ University of Waterloo** · [andrewli.app](https://andrewli.app) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com)
+**Computer Science @ University of Waterloo** · [andrewli.app](https://andrewli.app) · [linkedin.com/in/andrewl746](https://linkedin.com/in/andrewl746/) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com)
 
 I enjoy building software that makes people's lives easier. Founder of [OlympIQ](https://www.olympiq.ca).
 
