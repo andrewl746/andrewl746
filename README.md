@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
 
-Computer Science @ University of Waterloo · [andrewli.app](https://andrewli.app) · [linkedin.com/in/andrewl746](https://linkedin.com/in/andrewl746/) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com)
+Computer Science @ University of Waterloo · [Portfolio](https://andrewli.app) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com) · [LinkedIn](https://linkedin.com/in/andrewl746/) · [X](https://x.com/andrewl746)
 
 ## Featured Projects
 
