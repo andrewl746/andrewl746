@@ -1,4 +1,4 @@
-# Hi, I'm Andrew 👋
+# Hey, I'm Andrew 👋
 
 Computer Science @ University of Waterloo · [Portfolio](https://andrewli.app) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com) · [LinkedIn](https://linkedin.com/in/andrewl746/) · [X](https://x.com/andrewl746)
 
