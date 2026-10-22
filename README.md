@@ -8,7 +8,7 @@ Currently: Software Engineer at [Marble Investments](https://www.marbleinvestmen
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[OlympIQ](https://www.olympiq.ca)** · Live | Set to manage my high school's Science Olympics team with 60+ competitors by automatically assigning them to competition events while accounting for their preferences and any scheduling conflicts. | Next.js, TypeScript, Firebase |
+| **[OlympIQ](https://www.olympiq.ca)** · Live | Set to run scheduling for my high school's Science Olympics team with 60+ competitors by assigning them to events while accounting for their preferences and scheduling conflicts. | Next.js, TypeScript, Firebase |
 | **[Suplex](https://github.com/andrewl746/suplex)** · Hack the Valley 2026 | Checks any Toronto address against the City's four pre-approved multiplex designs and shows the result in 3D. Screened all 495,456 lots in Toronto against the zoning by-law. | Python, FastAPI, three.js |
 | **[Flowboard](https://github.com/andrewl746/Flowboard)** · JAMHacks 2026 | Turns a GitHub repo into an interactive flowchart, with an AI assistant grounded in the actual file structure and code. | Next.js, React Flow, Anthropic API |
 | **[CourtManager](https://github.com/andrewl746/CourtManager)** · IB HL CS Internal Assessment | Plans lineups for a 12-player high school tennis doubles team by pairing teammates with a custom merge-sort algorithm. | Java, Spring Boot, JavaScript |
