@@ -8,9 +8,9 @@ Currently: Software Engineer at [Marble Investments](https://www.marbleinvestmen
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| **[Nebulosity](https://nebulosity.ca)** · Live | A live map of how a big codebase fits together, for you and Claude Code. Made Claude Code up to 4.4× faster on questions that span many files, with every answer right. | TypeScript, MCP, SQLite |
 | **[OlympIQ](https://www.olympiq.ca)** · Live | Set to run scheduling for my high school's Science Olympics team with 60+ competitors by assigning them to events while accounting for their preferences and time conflicts. | Next.js, TypeScript, Firebase |
 | **[Suplex](https://github.com/andrewl746/suplex)** · Hack the Valley 2026 | Checks any Toronto address against the City's four pre-approved multiplex designs and shows the result in 3D. Screened all 495,456 lots in Toronto against the zoning by-law. | Python, FastAPI, three.js |
-| **[Flowboard](https://github.com/andrewl746/Flowboard)** · JAMHacks 2026 | Turns a GitHub repo into an interactive flowchart, with an AI assistant grounded in the actual file structure and code. | Next.js, React Flow, Anthropic API |
 | **[CourtManager](https://github.com/andrewl746/CourtManager)** · IB HL CS Internal Assessment | Plans lineups for a 12-player high school tennis doubles team by pairing teammates with a custom merge-sort algorithm. | Java, Spring Boot, JavaScript |
 
 ## Tech Stack
@@ -37,6 +37,7 @@ Currently: Software Engineer at [Marble Investments](https://www.marbleinvestmen
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
@@ -44,7 +45,6 @@ Currently: Software Engineer at [Marble Investments](https://www.marbleinvestmen
 **Tools & AI**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ## Profile Stats
