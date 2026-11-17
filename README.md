@@ -2,16 +2,16 @@
 
 Computer Science @ University of Waterloo · [Portfolio](https://andrewli.app) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com) · [LinkedIn](https://linkedin.com/in/andrewl746/) · [X](https://x.com/andrewl746)
 
-Currently: Software Engineer at [Marble Investments](https://www.marbleinvestments.ca/) · Software Engineer on the ground station team at [UW Orbital](https://www.uworbital.org/)
+Currently: Artificial Intelligence Engineer at [Instant Scaling](https://instantscaling.com/) · Software Engineer on the ground station team at [UW Orbital](https://www.uworbital.org/)
 
 ## Featured Projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[Nebulosity](https://nebulosity.ca)** · Live | A live map of how a big codebase fits together, for you and Claude Code. Made Claude Code up to 4.4× faster on questions that span many files, with every answer right. | TypeScript, MCP, SQLite |
-| **[OlympIQ](https://www.olympiq.ca)** · Live | Set to run scheduling for my high school's Science Olympics team with 60+ competitors by assigning them to events while accounting for their preferences and time conflicts. | Next.js, TypeScript, Firebase |
-| **[Suplex](https://github.com/andrewl746/suplex)** · Hack the Valley 2026 | Checks any Toronto address against the City's four pre-approved multiplex designs and shows the result in 3D. Screened all 495,456 lots in Toronto against the zoning by-law. | Python, FastAPI, three.js |
-| **[CourtManager](https://github.com/andrewl746/CourtManager)** · IB HL CS Internal Assessment | Plans lineups for a 12-player high school tennis doubles team by pairing teammates with a custom merge-sort algorithm. | Java, Spring Boot, JavaScript |
+| **[Nebulosity](https://nebulosity.ca)** · Live | A live map of how a large codebase fits together, for you and Claude Code. On multi-file questions, Claude Code with Nebulosity answered up to 4.4× faster and was fully right in 42 of 42 test runs, versus 29 without it. | TypeScript, MCP, SQLite |
+| **[Pyronac](https://pyronac.andrewli.app)** · NASA Space Apps 2026 | Merges NASA's MODIS and VIIRS satellite fire data into one consistent record for Canada, India, and Brazil from 2003 to now, cutting the gap between the two satellites' monthly fire counts from 78.5% to 9.2% on years the model was never trained on. Also picks optimal locations for firefighting bases. | Python, scikit-learn, DuckDB |
+| **[Suplex](https://suplex.andrewli.app)** · Hack the Valley 2026 | Checks any Toronto address against the City's 4 pre-approved multiplex designs and shows the result in 3D. Screened all 495,456 lots in Toronto against the zoning by-law and answers a single address in under 50 ms. | Python, FastAPI, three.js |
+| **[OlympIQ](https://www.olympiq.ca)** · Live | Set to run scheduling for my high school's 60+ member Science Olympics team, assigning competitors to events around their preferences and time conflicts. Piloted with the executives in summer 2026. | Next.js, TypeScript, Firebase |
 
 ## Tech Stack
 
