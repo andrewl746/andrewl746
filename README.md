@@ -2,7 +2,7 @@
 
 Computer Science @ University of Waterloo · [Portfolio](https://andrewli.app) · [Resume](https://andrewli.app/Andrew_Li_Resume.pdf) · [andrewli746@gmail.com](mailto:andrewli746@gmail.com) · [LinkedIn](https://linkedin.com/in/andrewl746/) · [X](https://x.com/andrewl746)
 
-Currently: Artificial Intelligence Engineer at [Instant Scaling](https://instantscaling.com/) · Software Engineer on the ground station team at [UW Orbital](https://www.uworbital.org/)
+Currently: AI Engineer at [Instant Scaling](https://instantscaling.com/) · Software Engineer on the ground station team at [UW Orbital](https://www.uworbital.org/)
 
 ## Featured Projects
 
